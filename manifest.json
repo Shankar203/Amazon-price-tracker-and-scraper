@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Amazon-price-tracker-and-scraper",
-    "version":"1.0.0",
-    "description":"keeps track of product prices",
+    "name": "Amazon price tracker and scraper",
+    "version":"1.2.0",
+    "description":"keep track of product price",
     "icons": { 
         "16": "./icons/icon16.png",
         "48": "./icons/icon48.png",

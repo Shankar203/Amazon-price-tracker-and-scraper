@@ -1,0 +1,26 @@
+{
+  "name": "amazon-price-tracker-and-scraper",
+  "version": "1.0.0",
+  "description": "keeps track of product prices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shankar203/Amazon-price-tracker-and-scraper.git"
+  },
+  "author": "Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shankar203/Amazon-price-tracker-and-scraper/issues"
+  },
+  "homepage": "https://github.com/Shankar203/Amazon-price-tracker-and-scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9"
+  }
+}
